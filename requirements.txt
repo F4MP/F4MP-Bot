@@ -1,5 +1,3 @@
 discord
 aiohttp
 git+git://github.com/Rapptz/discord-ext-menus
-PyGithub
-
